@@ -1,0 +1,8 @@
+# Ignore .json lists
+/lists/*.json
+
+# Ignore config 
+*.cfg.js
+
+# Node
+/node_modules

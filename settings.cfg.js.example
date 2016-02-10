@@ -1,0 +1,5 @@
+// Settings - 
+// Please insert your Twilio settings here...
+
+exports.ACCOUNT_SID = ''
+exports.AUTH_TOKEN = ''
